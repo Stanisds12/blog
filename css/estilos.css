@@ -1,0 +1,84 @@
+body{
+    background-image: url(../imagem/pp.png);
+    
+}
+
+.jumbotron{
+    background-color: #204d74;
+    color: white;
+	
+}
+.panel-heading{
+  background-color: #204d74 !important; 
+  color: white !important;
+}
+
+.navbar-brand{
+    color: black !important;
+}
+.navbar{
+    background-color: #204d74;
+}
+.navbar-brand:hover{
+    color: white !important; 
+}
+#navbar li a:hover{
+    color:black;
+}
+#navbar li a{
+    color:white;
+}
+.btn-default{
+   background-color: #204d74;
+    color: white;
+}
+#user{
+  background-repeat: no-repeat;
+  height: 90px;
+  width: 90px;
+}
+.sidebar{
+	
+	margin-top: -1em;
+	padding-top:1em;
+	margin-bottom: -1em;
+	padding-bottom:1em;
+	border-radius: 0.5em;
+}
+.grupoAdd{
+	height:inherit;
+	width:inherit;
+}
+
+#pais{
+	display: none;
+}
+#adm_registrado{
+    background-color:tomato ;
+    
+}
+#adm_certficados{
+    background-color: #286090;
+    
+}
+#adm_ok{
+    background-color:#5cb85c;
+   
+}
+#geral{
+    width: inherit;
+}
+#informacion{
+    width: inherit;  
+}
+#foto_persona{
+    height: 140px;
+    width: 130px;
+    margin-bottom: 4px;
+}
+#taq{
+    width: inherit;
+}
+#pais, #grado, #religion, #idioma{
+    display: none;
+}
